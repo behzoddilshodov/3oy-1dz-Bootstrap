@@ -1,0 +1,9 @@
+.jumbotron__text{
+  max-width: 690px;
+}
+
+.img{
+  width: 100%;
+  height: 225px;
+  display: block;
+}
